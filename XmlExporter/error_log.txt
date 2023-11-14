@@ -1,0 +1,6 @@
+[2023-11-14 16:25:48] Error: XMLReader::open(): Unable to open source data in C:\Users\elvii\eclipse-workspace\XmlExporter\processData\xml_checker.php on line 10
+[2023-11-14 16:26:44] Error: XMLReader::open(): Unable to open source data in C:\Users\elvii\eclipse-workspace\XmlExporter\processData\xml_checker.php on line 10
+[2023-11-14 16:28:18] Error: XMLReader::open(): Unable to open source data in C:\Users\elvii\eclipse-workspace\XmlExporter\processData\xml_checker.php on line 10
+[2023-11-14 16:35:57] Error: XMLReader::open(): Unable to open source data in C:\Users\elvii\eclipse-workspace\XmlExporter\processData\xml_checker.php on line 10
+[2023-11-14 16:35:59] Error: XMLReader::open(): Unable to open source data in C:\Users\elvii\eclipse-workspace\XmlExporter\processData\xml_checker.php on line 10
+[2023-11-14 16:37:26] Error: XMLReader::open(): Unable to open source data in C:\Users\elvii\eclipse-workspace\XmlExporter\processData\xml_checker.php on line 10
