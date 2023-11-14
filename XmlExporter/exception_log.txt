@@ -1,2 +1,0 @@
-[2023-11-14 16:26:49] Uncaught exception: Duplicate entry '340' for key 'products.PRIMARY' in C:\Users\elvii\eclipse-workspace\XmlExporter\database.php on line 43
-[2023-11-14 16:28:19] Uncaught exception: Duplicate entry '340' for key 'products.PRIMARY' in C:\Users\elvii\eclipse-workspace\XmlExporter\database.php on line 34
