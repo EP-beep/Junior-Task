@@ -1,5 +1,5 @@
 SQL query for creating Table:
-
+```
 CREATE TABLE `products` (
   `entity_id` int NOT NULL,
   `category_name` text,
@@ -20,3 +20,4 @@ CREATE TABLE `products` (
   `is_k_cup` tinyint(1) DEFAULT NULL,
   PRIMARY KEY (`entity_id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+```
